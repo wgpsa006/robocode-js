@@ -1,6 +1,6 @@
 
 lsc:
-	$(LSC) -c *.ls
+	lsc -c *.ls
 
 clean:
 	rm *.js
